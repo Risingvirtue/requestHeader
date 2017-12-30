@@ -1,0 +1,22 @@
+{
+  "name": "requestheader",
+  "version": "1.0.0",
+  "description": "nodeJS project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Risingvirtue/requestHeader.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Risingvirtue/requestHeader/issues"
+  },
+  "homepage": "https://github.com/Risingvirtue/requestHeader#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
